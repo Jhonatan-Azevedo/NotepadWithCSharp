@@ -1,0 +1,5 @@
+C:\Users\jhonatan.azevedo\Desktop\Notas\DotNet\EditorTxt\bin\publish\EditorTxt.exe
+C:\Users\jhonatan.azevedo\Desktop\Notas\DotNet\EditorTxt\bin\publish\EditorTxt.dll
+C:\Users\jhonatan.azevedo\Desktop\Notas\DotNet\EditorTxt\bin\publish\EditorTxt.deps.json
+C:\Users\jhonatan.azevedo\Desktop\Notas\DotNet\EditorTxt\bin\publish\EditorTxt.runtimeconfig.json
+C:\Users\jhonatan.azevedo\Desktop\Notas\DotNet\EditorTxt\bin\publish\EditorTxt.pdb
